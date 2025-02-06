@@ -9,8 +9,6 @@ export const ResumesList = () => {
         <AddResumesButton />
       </NewResumeDialog>
       <ResumeCard />
-      <ResumeCard />
-      <ResumeCard />
     </section>
   )
 }
